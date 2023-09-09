@@ -1,0 +1,11 @@
+openai
+numpy
+langchain
+wolframalpha
+google-api-python-client
+wikipedia
+colorlog
+sendgrid
+pandas
+matplotlib
+cloudinary
